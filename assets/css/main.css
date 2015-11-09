@@ -2549,6 +2549,10 @@
 					border-top: 0;
 				}
 
+#bigheader {
+	font-size: 50px;
+}
+
 /* Wrapper */
 
 	#wrapper {
@@ -3059,5 +3063,6 @@
 			.button {
 				padding: 0;
 			}
+
 
 	}
